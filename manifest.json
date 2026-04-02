@@ -1,0 +1,19 @@
+{
+  "name": "Big Bass Vegas Double Down Deluxe",
+  "short_name": "Big Bass Vegas Double Down Deluxe",
+  "theme_color": "",
+  "background_color": "#14112E",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775132983-public-logo-big-bass-vegas-double-down-deluxe-cdd4d1902c-11.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

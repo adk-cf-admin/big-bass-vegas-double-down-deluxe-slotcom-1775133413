@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://big-bass-vegas-double-down-deluxe-slot.com/
+Sitemap: https://big-bass-vegas-double-down-deluxe-slot.com/sitemap.xml
